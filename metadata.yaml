@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33010'
     url: http://www.gutenberg.org/2009/agents/33010
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27917#The-Strange-Adventures-of-Mr.-Middleton
 gutenberg_issued: '2009-01-28'
 gutenberg_type: Text
 identifiers:
