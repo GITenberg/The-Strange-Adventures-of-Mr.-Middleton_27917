@@ -1,0 +1,29 @@
+_repo: The-Strange-Adventures-of-Mr.-Middleton_27917
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27917-h/images/cover.png
+creator:
+  author:
+    agent_name: Curtis, Wardon Allan
+    alias: Curtis, W. A. (Wardon Allan)
+    birthdate: 1867
+    deathdate: 1940
+    gutenberg_agent_id: '33010'
+    url: http://www.gutenberg.org/2009/agents/33010
+description: ''
+gutenberg_issued: '2009-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27917'
+  lccn: 03025883
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Tales'
+- !lcc 'PS'
+title: The Strange Adventures of Mr. Middleton
+url: http://www.gutenberg.org/ebooks/27917
